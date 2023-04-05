@@ -1,4 +1,4 @@
-# Alarm-Association-Mining
+# Alarm Association Mining
 ## Problem statement
 
 The Wonderware Historian (recently rebranded as AVEVA Historian) is a real-time relational database for plant data. The historian acquires and stores process data at full resolution and provides real-time and historical plant data together with configuration, event, summary, and associated production data to client applications on the desktop. The historian combines the power and flexibility of Microsoft SQL Server with the high-speed acquisition and efficient data compression characteristics of a real-time system.
